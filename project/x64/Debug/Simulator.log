@@ -1,0 +1,143 @@
+﻿  0 File(s) copied
+  BaseController.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ColorUtils.cpp
+  DrawingFuncs.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(332,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(328): message : while compiling class template member function 'V3D SLR::Quaternion<float>::ToEulerYPR(void) const'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Drawing\DrawingFuncs.cpp(254): message : see reference to function template instantiation 'V3D SLR::Quaternion<float>::ToEulerYPR(void) const' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Drawing\DrawingFuncs.cpp(246): message : see reference to class template instantiation 'SLR::Quaternion<float>' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(334,13): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(337,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GLUTMenu.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Graph.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Drawing\Graph.cpp(251,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GraphManager.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Visualizer_GLUT.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Geometry.cpp
+  Random.cpp
+  MavlinkNode.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\lib\mavlink\mavlink_conversions.h(72,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MavlinkTranslation.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\lib\mavlink\mavlink_conversions.h(72,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(357,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(355): message : while compiling class template member function 'float SLR::Quaternion<float>::Roll(void) const'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\MavlinkNode\MavlinkTranslation.cpp(63): message : see reference to function template instantiation 'float SLR::Quaternion<float>::Roll(void) const' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\MavlinkNode\MavlinkTranslation.cpp(58): message : see reference to class template instantiation 'SLR::Quaternion<float>' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(351,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(350): message : while compiling class template member function 'float SLR::Quaternion<float>::Pitch(void) const'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\MavlinkNode\MavlinkTranslation.cpp(63): message : see reference to function template instantiation 'float SLR::Quaternion<float>::Pitch(void) const' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(346,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(344): message : while compiling class template member function 'float SLR::Quaternion<float>::Yaw(void) const'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\MavlinkNode\MavlinkTranslation.cpp(63): message : see reference to function template instantiation 'float SLR::Quaternion<float>::Yaw(void) const' being compiled
+  PracticalSocket.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\MavlinkNode\PracticalSocket.cpp(114,25): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\MavlinkNode\PracticalSocket.cpp(285,28): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  QuadControl.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\QuadControl.cpp(81,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\QuadControl.cpp(81,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\QuadControl.cpp(281,38): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\QuadControl.cpp(281,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\QuadControl.cpp(283,21): warning C4305: '-=': truncation from 'double' to 'float'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\QuadControl.cpp(285,21): warning C4305: '+=': truncation from 'double' to 'float'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(346,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(344): message : while compiling class template member function 'float SLR::Quaternion<float>::Yaw(void) const'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\QuadControl.cpp(308): message : see reference to function template instantiation 'float SLR::Quaternion<float>::Yaw(void) const' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\VehicleDatatypes.h(11): message : see reference to class template instantiation 'SLR::Quaternion<float>' being compiled
+  BaseDynamics.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  QuadDynamics.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Simulator.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Trajectory.cpp
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(332,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(328): message : while compiling class template member function 'V3D SLR::Quaternion<float>::ToEulerYPR(void) const'
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Trajectory.cpp(164): message : see reference to function template instantiation 'V3D SLR::Quaternion<float>::ToEulerYPR(void) const' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\VehicleDatatypes.h(11): message : see reference to class template instantiation 'SLR::Quaternion<float>' being compiled
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(334,13): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(337,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(152,48): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(150): message : while compiling class template member function 'SLR::Quaternion<float> SLR::Quaternion<float>::FromEulerYPR(const T &,const T &,const T &)'
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Trajectory.cpp(62): message : see reference to function template instantiation 'SLR::Quaternion<float> SLR::Quaternion<float>::FromEulerYPR(const T &,const T &,const T &)' being compiled
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(153,48): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(154,48): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\src\Math\Quaternion.h(155,48): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Camera.cpp
+  SimpleConfig.cpp
+  Generating Code...
+  Compiling...
+  Timer.cpp
+  Generating Code...
+  Simulator.vcxproj -> F:\conda\FCND-Term1-Starter-Kit\FCND-Controls-CPP\project\x64\Debug\Simulator.exe
