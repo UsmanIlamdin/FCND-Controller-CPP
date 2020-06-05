@@ -286,7 +286,7 @@ PASS: ABS(Quad2.Yaw) was less than 0.100000 for at least 1.000000 seconds
 # Scenario 4
 PASS: ABS(Quad1.PosFollowErr) was less than 0.100000 for at least 1.500000 seconds
 PASS: ABS(Quad2.PosFollowErr) was less than 0.100000 for at least 1.500000 seconds
-PASS: ABS(Quad3.PosFollowErr) was less than 0.100000 for at least 1.500000 seconds
+PASS: ABS(Quad3.PosFollowErr) was less than 0.1000 for at least 1.500000 seconds
 # Scenario 5
-PASS: ABS(Quad2.PosFollowErr) was less than 0.250000 for at least 3.000000 seconds
+PASS: ABS(Quad2.PosFollowErr) was less than 0.2500 for at least 3.000000 seconds
 ```
